@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alkoarism
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C++ and using OpenGL as a means to practive what i´ve learned
-- 💞️ I’m looking to collaborate on game projects and work on companies that offers training if necessary
+- 💞️ I’m looking to collaborate on projects and work on companies that offers training if necessary
 - 📫 How to reach me: you can e-mail me using github.
 
 <!---
